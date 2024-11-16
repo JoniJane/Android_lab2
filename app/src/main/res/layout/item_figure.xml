@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@android:color/white">
+
+    <TextView
+        android:id="@+id/nameTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Name"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:layout_marginBottom="8dp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"
+        android:layout_marginBottom="8dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@android:color/white"
+        android:padding="8dp"
+        android:layout_marginBottom="8dp"
+        android:elevation="4dp"
+        android:backgroundTint="@android:color/white">
+
+        <TextView
+            android:id="@+id/titleTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Title"
+            android:textSize="16sp"
+            android:textStyle="italic"
+            android:textColor="@android:color/holo_blue_dark"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:id="@+id/bornTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Born"
+            android:textSize="14sp"
+            android:textColor="@android:color/black"
+            android:layout_marginBottom="6dp" />
+
+        <TextView
+            android:id="@+id/diedTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Died"
+            android:textSize="14sp"
+            android:textColor="@android:color/darker_gray"
+            android:layout_marginBottom="6dp" />
+
+        <TextView
+            android:id="@+id/occupationTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Occupation"
+            android:textSize="15sp"
+            android:textColor="@android:color/holo_green_dark"
+            android:layout_marginBottom="6dp" />
+
+        <TextView
+            android:id="@+id/notableWorkTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Notable Work"
+            android:textSize="15sp"
+            android:textColor="@android:color/holo_red_dark"
+            android:layout_marginBottom="6dp" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"
+        android:layout_marginTop="8dp" />
+</LinearLayout>
