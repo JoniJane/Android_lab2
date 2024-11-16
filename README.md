@@ -1,1 +1,2 @@
-[Смотреть видео](https://share.icloud.com/photos/09fRKwb8qitW2sSzvZ4bZ25lQ)
+[Смотреть видео]()
+[android_lab2.zip](https://github.com/user-attachments/files/17787610/android_lab2.zip)
