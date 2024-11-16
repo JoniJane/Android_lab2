@@ -1,1 +1,1 @@
-[Смотреть видео](videos/https://share.icloud.com/photos/00buQ_iIgjjGU5QB2MbGkDYTQ)
+[Смотреть видео](https://share.icloud.com/photos/09fRKwb8qitW2sSzvZ4bZ25lQ)
